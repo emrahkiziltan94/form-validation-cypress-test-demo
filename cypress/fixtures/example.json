@@ -1,0 +1,12 @@
+{
+  "statusCode": 201,
+  "body": {
+    "message": "get by id succed!",
+    "fruit": {
+      "id": 1,
+      "name": "çilek",
+      "price": 45.5,
+      "fruitType": "SWEET"
+    }
+  }
+}
